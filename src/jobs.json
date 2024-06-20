@@ -83,6 +83,19 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "5031",
+      "title": "Cobol Developer",
+      "type": "Full-Time",
+      "location": "Houston, TX",
+      "description": "Work with some really old crap and enjoy it.",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Cobol R Us",
+        "contactEmail": "cobol@cobol.com",
+        "contactPhone": "555-555-5555"
+      }
     }
   ]
 }
